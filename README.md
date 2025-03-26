@@ -1,7 +1,7 @@
 ## About me
 👋 Hi, I’m @LuxuryProg101.
 I'm brand new into the field of Cybersecurity and programming.
-I'm an IT Support technician L1-2
+I'm an IT Support technician L1
 I have alot to learn, but i'm very persistent and know that i will go through.
 I’m currently learning Python3, JDScript, Pentesting Path with HTB & THM, HTML and more.
 
