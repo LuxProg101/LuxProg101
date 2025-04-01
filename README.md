@@ -26,13 +26,13 @@ What will you find here:
 
 Project:
 - [x] Shodan Script
-- [ ] Creating Scrapping tool with Python
+- [x] Creating Scrapping tool with Python
 - [ ] Enumeration Script tool 100% using Python
 
 In progress:
 - [x] Creating a 2D game using Godot4
-- [ ] Scrappy project PY3
 - [ ] Music Making FL-Studio
+- [ ] Compile Web Application using Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
